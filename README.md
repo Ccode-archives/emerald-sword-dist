@@ -1,0 +1,2 @@
+# emerald-sword-dist
+POWER
