@@ -1,3 +1,12 @@
 # emerald-sword-dist
 POWER
 Feel free to decompile and mod.
+# added
+ * Emerald sword (***POWER***):  
+insta kill  
+particles  
+right click for lightning
+craft with 2 emerald blocks and a stick
+ * logo show keybinds (logo shows by default):  
+j to enable the logo  
+k to disable the logo  
