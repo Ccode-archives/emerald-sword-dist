@@ -1,6 +1,7 @@
 # emerald-sword-dist
 POWER
-Feel free to decompile and mod.
+Feel free to decompile and mod.  
+Started as a comment on Divoom.
 # added
  * Emerald sword (***POWER***):  
 insta kill  
